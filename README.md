@@ -1,1 +1,1 @@
-# mern-assignment1
+# Mern Stack Assignment
